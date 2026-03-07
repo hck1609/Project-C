@@ -36,7 +36,7 @@ int main() {
         printf(" than %d,now",guess);
         
       }                                //this is past  amarjeet[time:-12:50am], dear comrade: if you ever wonder what typa shit the future amarjeet sent you, just take a moment of breathe.
-                                       //AND kindly, keep that doubt to almighty yourself only, coz' even i made this with prayers, how the hell is he supposed to know how this shit works, sybau,  ..sayonara. 
+                                       //AND kindly, keep that doubt to almighty yourself only, coz' even i made this with prayers, how the hell is he supposed to know how this shit works, sybau.
       if(guess>rand){
         printf("\nWe ain't going to moo");
         for(i=2;i<=no_of_guess;i++){
