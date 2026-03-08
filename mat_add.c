@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <conio.h>
-#include "mat_add.h"
 
 int row, column;
 void matrix_scanner(int matrix[10][10])
