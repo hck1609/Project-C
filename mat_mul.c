@@ -58,4 +58,5 @@ void main(){
         printf("\nThe product of the two matrices is:\n");
         matrix_printer(mul_mat,r1,c2);
     }
-}
+    getch();
+  }
