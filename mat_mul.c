@@ -19,6 +19,7 @@ void matrix_printer(int matrix[10][10],int row, int column)
     { printf("%5d",matrix[i][j]);
     }
   }
+  printf("\n");
 }
 
 void main(){

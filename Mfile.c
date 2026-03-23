@@ -3,7 +3,7 @@
 
 int main() {
     FILE *ptr = fopen("file.txt", "a");
-    fprintf(ptr, "\nYO, %u", (unsigned int)ptr);
+    fprintf(ptr, "\nwhat the fuck am I doing here, lol. %u", (unsigned int)ptr);
     fclose(ptr);
     return 0;
     
